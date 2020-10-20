@@ -41,7 +41,10 @@ Deep neural network architectures with autoencoders
 
 ## Requirements
 
+
 ## References
 [DD2424 course materials](https://www.kth.se/student/kurser/kurs/DD2424)
+
 [DD2437 course materials](https://www.kth.se/student/kurser/kurs/DD2437)
+
 [Cyclical Learning Rates](https://arxiv.org/abs/1506.01186)
